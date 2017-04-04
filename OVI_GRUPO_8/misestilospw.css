@@ -1,0 +1,84 @@
+#group{
+	width: 900;
+	height: auto;
+	margin:auto;
+	position: relative;
+	background: gray;
+	border-radius: 8px;
+	background: linear-gradient(top, #FFFFFF 50%, #006699 90%);
+}
+header{
+	width:400;
+	height: 190px;
+    background-image:url(logoprincipal.png);
+    background-repeat: no-repeat;
+	background-size: cover; 
+   border-radius:8px; 
+    
+}
+h1{
+	height: 100px;
+	font-size: 40px;
+	color: white;
+	margin: 140px 8px 2px 2px;float: right;
+	font-color:white;	 
+}
+#logoALTER{
+	margin: 1px -8px 2px 2px; float: left;
+	height:190px;
+	width:229px;
+	border-radius: 8px;
+}
+nav{
+	width: 1332px;
+	height: 80px;
+	background: #808080;
+	border-radius: 8px;
+	font-color:white;
+}
+ul{
+	margin: auto;
+	padding-top: 4px;
+	font-color:white;
+}
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: #808080;
+	margin: 2px;
+	border-radius: 8px;
+	
+}
+#pie {
+clear: both;
+text-align: left;
+padding: 15px;
+border-top: 2px solid #999999;
+border-radius: 6px;
+background: #005883;
+width: 1305px;
+height: 105px;
+}
+article {
+background: white;
+border: 1px solid #999999;
+padding: 20px;
+margin-bottom: 15px;
+}
+#seccion {
+float: left;
+width: 860px;
+margin: 10px;
+}
+#columna {
+float: right;
+width: 90px;
+margin: 40px 85px;
+padding: 80px;
+background: #CCCCCC;
+height: 200px;
+}
+body{
+	background: #B3B3B3;
+}
